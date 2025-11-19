@@ -76,8 +76,6 @@ DermaScan allowed me to connect my interests in **AI, medical imaging, and full-
 
 <img width="1440" height="779" alt="Screenshot 2025-11-19 at 22 21 25" src="https://github.com/user-attachments/assets/ff5b2d00-f4d9-4e6a-aceb-5bd4222abf04" />
 
-
-
 # **Model Architecture**
 
 The final model uses **EfficientNet-B0** pretrained on ImageNet, followed by:
@@ -180,6 +178,8 @@ This notebook contains the full training pipeline based on the EfficientNet-B0 a
 ### **Model & Data Enhancements**
 
 - Add **multi-class classification** for multiple skin lesion categories
+- Extend the system to detect additional types of skin cancer, including basal cell
+  carcinoma (BCC), squamous cell carcinoma (SCC), actinic keratosis (AK)
 - Incorporate **patient metadata** known to influence diagnosis:
 
   - Age
@@ -187,4 +187,4 @@ This notebook contains the full training pipeline based on the EfficientNet-B0 a
   - Lesion location
 
 - Integrate **non-dermoscopic mobile images**, enabling real-world usability
-- Add explainability tools such as Grad-CAM or attention heatmaps
+- Add simple visual explanations to show which part of the lesion the model focused on.
