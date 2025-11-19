@@ -41,7 +41,7 @@ The training approach is **inspired by**:
 > **“Classification of melanoma skin cancer based on image data set using different neural networks,” Scientific Reports (Nature), 2024.** > [https://www.nature.com/articles/s41598-024-75143-4](https://www.nature.com/articles/s41598-024-75143-4)
 
 > **“the dataset mentioned in the paper and used in the project:** >
-> [text](https://www.kaggle.com/datasets/hasnainjaved/melanoma-skin-cancer-dataset-of-10000-images)
+> [https://www.kaggle.com/datasets/hasnainjaved/melanoma-skin-cancer-dataset-of-10000-images]
 
 “The paper evaluated CNN, ResNet-18, and EfficientNet-B0 and reported that EfficientNet-B0 performed best on their dataset, which motivated my choice of architecture for this project.”
 
