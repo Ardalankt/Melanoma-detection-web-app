@@ -34,6 +34,7 @@ export const register = async (req, res) => {
       token,
     });
   } catch (error) {
+    console.error("REGISTER ERROR:", error);
     res
       .status(500)
       .json({ message: "Registration failed", error: error.message });
