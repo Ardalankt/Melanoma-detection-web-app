@@ -70,6 +70,14 @@ DermaScan allowed me to connect my interests in **AI, medical imaging, and full-
 
 ---
 
+<img width="1440" height="780" alt="Screenshot 2025-11-19 at 22 34 02" src="https://github.com/user-attachments/assets/0e880664-e01f-46e9-b04d-5a82556e49f8" />
+
+<img width="1440" height="779" alt="Screenshot 2025-11-19 at 22 19 42" src="https://github.com/user-attachments/assets/7e441968-5b40-4305-b671-a8afd534e69d" />
+
+<img width="1440" height="779" alt="Screenshot 2025-11-19 at 22 21 25" src="https://github.com/user-attachments/assets/ff5b2d00-f4d9-4e6a-aceb-5bd4222abf04" />
+
+
+
 # **Model Architecture**
 
 The final model uses **EfficientNet-B0** pretrained on ImageNet, followed by:
